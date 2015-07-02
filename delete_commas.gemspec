@@ -8,16 +8,12 @@ Gem::Specification.new do |s|
   s.name        = "delete_commas"
   s.version     = DeleteCommas::VERSION
   s.authors     = ["txssseal"]
-  s.email       = ["colton@coltonseal.com"]
-  s.homepage    = "TODO"
-  s.summary     = "TODO: Summary of DeleteCommas."
-  s.description = "TODO: Description of DeleteCommas."
+  s.email       = ["coltonsealtt@gmail.com"]
+  s.homepage    = "https://github.com/txssseal/delete_commas.git"
+  s.summary     = "Deletes commas within a string"
+  s.description = "Deletes commas within a string"
   s.license     = "MIT"
 
   s.files = Dir["{app,config,db,lib}/**/*", "MIT-LICENSE", "Rakefile", "README.rdoc"]
   s.test_files = Dir["test/**/*"]
-
-  #s.add_dependency "rails", "~> 4.1.0"
-
-  s.add_development_dependency "sqlite3"
 end
