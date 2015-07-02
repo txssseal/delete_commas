@@ -3,6 +3,6 @@
 This project uses the MIT-LICENSE.
 
 add the gem to your Gemfile
-ex: gem 'delete_commas', git: 'git://github.com/txssseal/delete_commas.git'
+<tt>gem 'delete_commas', git: 'git://github.com/txssseal/delete_commas.git'</tt>
 
-Now you can call delete_commas on any instance of string!
+Now you can call <tt>delete_commas</tt> on any instance of String!
