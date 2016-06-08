@@ -1,9 +1,6 @@
 = DeleteCommas
 
-This project uses the MIT-LICENSE.
-
 add the gem to your Gemfile
 <tt>gem 'delete_commas'</tt>
 <tt>String.delete_commas</tt>
 
-This is helpful when making API calls, to ensure you get rid of those pesky commas, and at the same type makes your code more readable :)
